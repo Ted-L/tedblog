@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>TED Hugo Site</title>
+    <title>TED Site</title>
     <link>https://Ted-L.github.io/</link>
-    <description>Recent content on TED Hugo Site</description>
+    <description>Recent content on TED Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 30 Jan 2021 10:42:56 +0800</lastBuildDate><atom:link href="https://Ted-L.github.io/index.xml" rel="self" type="application/rss+xml" />
@@ -13,9 +13,7 @@
       <pubDate>Sat, 30 Jan 2021 10:42:56 +0800</pubDate>
       
       <guid>https://Ted-L.github.io/post/blog/</guid>
-      <description>Why writers should use Markdown Markdown is quick, simple and portable. It&amp;rsquo;s also extremely elegant and very cool. You need to know Markdown.
-WYSIWYGs are the past. They&amp;rsquo;re slow and bloated.
-This is a subheading  This makes a blockquote. A blockquote is a long piece of of quoted text. Blockquotes are often indented and occasionally italicised.
+      <description>This is to test my first blog creation This is a subheading  Update blog soon&amp;hellip;.
  </description>
     </item>
     
