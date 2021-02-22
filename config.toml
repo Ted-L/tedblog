@@ -1,6 +1,6 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "TED Site"
+title = "TED LZY Site"
 theme = "m10c"
 [[menu.main]]
   identifier = "tags"

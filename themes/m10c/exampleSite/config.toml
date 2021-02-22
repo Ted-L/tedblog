@@ -15,8 +15,8 @@ paginate = 5
     url = "/tags/"
 
 [params]
-  author = "John Doe"
-  description = "./themes/m10c/exampleSite/config.toml Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vehicula turpis sit amet elit pretium."
+  author = "Ted L"
+  description = "themes_m10c_exampleSite_config_toml Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vehicula turpis sit amet elit pretium."
   menu_item_separator = " - "
   [[params.social]]
     name = "github"
