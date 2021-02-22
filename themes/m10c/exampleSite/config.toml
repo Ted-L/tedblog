@@ -16,7 +16,7 @@ paginate = 5
 
 [params]
   author = "John Doe"
-  description = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vehicula turpis sit amet elit pretium."
+  description = "./themes/m10c/exampleSite/config.toml Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vehicula turpis sit amet elit pretium."
   menu_item_separator = " - "
   [[params.social]]
     name = "github"

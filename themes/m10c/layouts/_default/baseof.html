@@ -30,7 +30,7 @@
         {{- end }}
       </nav>
       {{- end }}
-      <p>{{ .Site.Params.description | default "This is the testing site.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vehicula turpis sit amet elit pretium." }}</p>
+      <p>{{ .Site.Params.description | default "This is the default testing site if theres no description tag.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vehicula turpis sit amet elit pretium." }}</p>
       <div class="app-header-social">
         {{ range .Site.Params.social }}
           <a target="_blank" href="{{ .url }}" rel="noreferrer noopener">{{ partial "icon.html" (dict "ctx" $ "name" .name ) }}</a>
